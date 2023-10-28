@@ -1,2 +1,2 @@
 [default]
-ec2-18-185-110-39.eu-central-1.compute.amazonaws.com ansible_ssh_private_key_file=/Users/rahulwagh/.ssh/aws_ec2_terraform
+13.126.86.159 ansible_ssh_private_key_file=/home/tushar/ansibletest.pem
